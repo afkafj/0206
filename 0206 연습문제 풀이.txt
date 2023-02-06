@@ -1,0 +1,15 @@
+5장
+3,4
+node1.link = node1
+node2, node3, node3
+1
+current = head, last = last.limk, last.link = head
+current = current link, return currnt, current.link! = head
+
+6장
+4
+pop, top, push
+top += 1, top -= 1
+1
+2
+return none, return stack[top]
