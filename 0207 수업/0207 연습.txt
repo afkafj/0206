@@ -1,0 +1,18 @@
+7장
+4
+enQueue, deQueue, front, rear
+rear += 1, front += 1
+2
+2
+return None, return queue[front+1]
+
+8장
+루트, 레벨, 노드, 에지
+1,2,3,4
+편향, 포화, 완전
+3
+후위
+4
+4
+name<current.data, current=current.left, current=current.right
+3
